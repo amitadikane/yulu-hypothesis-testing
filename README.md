@@ -42,7 +42,7 @@ Yulu has observed a dip in revenue and wants to understand which factors signifi
 
 ## 📓 Notebook & Full Report
 
-- **Jupyter Notebook**: [./notebooks/](./notebooks/)
+- **Jupyter Notebook**: [./notebooks/](./notebooks/yulu_analysis.ipynb)
 - **PDF Report**: [./reports/](./reports/)
 
 ---
